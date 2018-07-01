@@ -52,3 +52,10 @@
     模板地址：https://github.com/TinkerDeng/reademe.git
     模板分支：模板分支：branch
 ```
+
+#### 总结
+```
+   var x=1;
+   var y=2;
+   var c=x+2;
+```
